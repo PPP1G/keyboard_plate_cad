@@ -1,6 +1,8 @@
 # keyboard_plate_cad
 
 #### 介绍
+Fork自https://gitee.com/xuebinstudy/keyboard_plate_cad
+
 尽可能包含自己和群友们想要的定位板。
 使用GPL2.0开源协议，希望大家修改后再次开源，开源才是大力促进发展的好办法。
 ### 说明
